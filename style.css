@@ -11,7 +11,6 @@
   margin-bottom: 100px;
 
 }
-
 .header-title {
   font-family: "PT Serif", serif;
   font-size: 36px;
@@ -31,7 +30,6 @@
   width: 439px;
   height: 87px;
 }
-
 
 .designation{
 writing-mode: vertical-rl;
@@ -88,12 +86,6 @@ margin-left: 10px;
     grid-column: 10 / 12;
     grid-row: 6 / 13;
 }
-
-
-
-
-
-
 .footer{
 color: #A9A9A9;
 font-size: 14px;
@@ -101,4 +93,7 @@ font-weight: 700;
 text-decoration-line: underline;
 text-align: center;
 padding: 30px;
+}
+@media screen and (max) {
+    
 }
